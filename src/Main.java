@@ -33,11 +33,11 @@ public class Main {
             switch (opcoes) {
                 case 1:
                     moedaDe = "USD";
-                    moedaPara = "ARG";
+                    moedaPara = "ARS";
                     break;
 
                 case 2:
-                    moedaDe = "ARG";
+                    moedaDe = "ARS";
                     moedaPara = "USD";
                     break;
 
